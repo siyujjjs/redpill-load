@@ -1,0 +1,8 @@
+{
+    "extra_cmdline": {
+        "vid": "<fill me>",
+        "pid": "<fill me>",
+        "sn": "<fill me>",
+        "mac1": "<fill me>"
+    }
+}
